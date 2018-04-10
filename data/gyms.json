@@ -27,6 +27,15 @@
     }
   },
   {
+    "gymId": "49992180",
+    "gymName": "The Castle Flag Pole",
+    "gymInfo": {
+      "gymDescription": "Revolutionary through WWII memorial.",
+      "latitude": 41.044483,
+      "longitude": -80.352354
+    }
+  },
+  {
     "gymId": "6529766",
     "gymName": "Jesus Light Church Of The World",
     "gymInfo": {
@@ -76,8 +85,17 @@
     "gymName": "CCC Flag Pole",
     "gymInfo": {
       "gymDescription": "Civilian Conservation Corps chapter 125\nDedicated Aug. 1, 1998. ",
-      "latitude": 40.97772,
+      "latitude": 40.977720,
       "longitude": -80.322448
+    }
+  },
+  {
+    "gymId": "6529812",
+    "gymName": "Hitters Hackers and Hoops",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.974849,
+      "longitude": -80.268670
     }
   },
   {
@@ -94,7 +112,7 @@
     "gymName": "New Castle Amphitheatre Fountain",
     "gymInfo": {
       "gymDescription": "",
-      "latitude": 40.99992,
+      "latitude": 40.999920,
       "longitude": -80.342879
     }
   },
@@ -131,7 +149,7 @@
     "gymInfo": {
       "gymDescription": "",
       "latitude": 41.016894,
-      "longitude": -80.33052
+      "longitude": -80.330520
     }
   },
   {
@@ -175,7 +193,7 @@
     "gymName": "Hoyt Institute of Fine Arts",
     "gymInfo": {
       "gymDescription": "",
-      "latitude": 41.01259,
+      "latitude": 41.012590,
       "longitude": -80.344613
     }
   },
@@ -195,15 +213,6 @@
       "gymDescription": "",
       "latitude": 40.989297,
       "longitude": -80.329455
-    }
-  },
-  {
-    "gymId": "824647",
-    "gymName": "Darlington Park Caboose",
-    "gymInfo": {
-      "gymDescription": "",
-      "latitude": 40.972678,
-      "longitude": -80.375188
     }
   }
 ]
