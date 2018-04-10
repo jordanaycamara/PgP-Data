@@ -121,7 +121,7 @@
               <coordinates>
                 -80.3598404,41.0482882,0
                 -80.3859329,40.9679743,0
-                -80.3093719,40.9734181,0
+                -80.2602767,40.9705667,0
                 -80.320015,41.0425917,0
                 -80.3598404,41.0482882,0
               </coordinates>
@@ -525,6 +525,24 @@
         <Point>
           <coordinates>
             -80.352354,41.044483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hitters Hackers and Hoops</name>
+        <description><![CDATA[Latitude: 40.974849<br>Longitude: -80.26867]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.974849</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.26867</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.26867,40.974849,0
           </coordinates>
         </Point>
       </Placemark>
