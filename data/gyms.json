@@ -6610,5 +6610,274 @@
         "Western Union"
       ]
     }
+  },
+  {
+    "gymId": "824647",
+    "gymName": "Darlington Park Caboose",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.972678,
+      "longitude": -80.375188,
+      "addressComponents": [
+        {
+          "formattedAddress": "2-98 Darlington Ave, New Castle, PA 16102, USA",
+          "addressComponents": [
+            {
+              "longName": "2-98",
+              "shortName": "2-98",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Darlington Avenue",
+              "shortName": "Darlington Ave",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "New Castle",
+              "shortName": "New Castle",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16102",
+              "shortName": "16102",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle",
+              "shortName": "New Castle",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA 16102, USA",
+          "addressComponents": [
+            {
+              "longName": "16102",
+              "shortName": "16102",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "New Castle",
+              "shortName": "New Castle",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Ashland Oil",
+        "Aven Fire Systems Inc",
+        "Bill\u0027s Bake Shoppe",
+        "CSX New Castle",
+        "Church of Genesis",
+        "Hill House Restaurant",
+        "Hilti Inc",
+        "Hyde Drug Store",
+        "International Track Systems, Inc",
+        "Jesus Loves You Hauling",
+        "Kasgro Rail Corporation",
+        "Mac Supply Co",
+        "Mangino\u0027s Pizzeria",
+        "Reed Oil Co",
+        "Reed Oil Company / Kennedy Oil Company",
+        "St. Vincent De Paul Parish",
+        "Thermalmax Inc",
+        "Valley View Cemetery"
+      ]
+    }
   }
 ]
