@@ -779,7 +779,6 @@
         "Faraone Brothers",
         "Horizon Co",
         "Jameson Behavioral Health",
-        "Jameson Hospital Center For Wound",
         "Jameson Hospital: Dappert Barbara A MD",
         "Jameson School of Radiography",
         "Medevac Ambulance",
@@ -788,6 +787,7 @@
         "Occupational Medicine: Liedke Richd D MD",
         "PHN Wellness-Primary Health",
         "Pennsylvania Medical Transport",
+        "St. Vitus Catholic Church",
         "St. Vitus School",
         "Vucinich Dana MD"
       ]
@@ -6608,6 +6608,619 @@
         "Thaddeus Stevens School",
         "W R Cade Paving Inc",
         "Western Union"
+      ]
+    }
+  },
+  {
+    "gymId": "6529899",
+    "gymName": "Mahoning Township Park",
+    "gymInfo": {
+      "gymDescription": "Large stone and wood sign",
+      "latitude": 41.013120,
+      "longitude": -80.485838,
+      "addressComponents": [
+        {
+          "formattedAddress": "4512 W State St, Edinburg, PA 16116, USA",
+          "addressComponents": [
+            {
+              "longName": "4512",
+              "shortName": "4512",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "West State Street",
+              "shortName": "W State St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Edinburg",
+              "shortName": "Edinburg",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mahoning Township",
+              "shortName": "Mahoning Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16116",
+              "shortName": "16116",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Mahoning Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Mahoning Township",
+              "shortName": "Mahoning Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Edinburg, PA 16116, USA",
+          "addressComponents": [
+            {
+              "longName": "16116",
+              "shortName": "16116",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Edinburg",
+              "shortName": "Edinburg",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Angel\u0027s Touch",
+        "Maco Cleaning Services",
+        "Mahoning Township Pool",
+        "Mahoning Twp Municipal Building",
+        "Mahoning Twp Secretary",
+        "Mahoning Twp Wage Tax Office",
+        "Ninja Firewood",
+        "SealMaster",
+        "Sky King Fireworks",
+        "Stone Quarry Banquet Center"
+      ]
+    }
+  },
+  {
+    "gymId": "7749068",
+    "gymName": "US Post Office",
+    "gymInfo": {
+      "gymDescription": "Hillsville Post Office",
+      "latitude": 41.007399,
+      "longitude": -80.496459,
+      "addressComponents": [
+        {
+          "formattedAddress": "2562 Churchill Rd, Edinburg, PA 16116, USA",
+          "addressComponents": [
+            {
+              "longName": "2562",
+              "shortName": "2562",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Churchill Road",
+              "shortName": "Churchill Rd",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Edinburg",
+              "shortName": "Edinburg",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mahoning Township",
+              "shortName": "Mahoning Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16116",
+              "shortName": "16116",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "2562 T932, Hillsville, PA 16132, USA",
+          "addressComponents": [
+            {
+              "longName": "2562",
+              "shortName": "2562",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "T932",
+              "shortName": "T932",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Hillsville",
+              "shortName": "Hillsville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mahoning Township",
+              "shortName": "Mahoning Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16132",
+              "shortName": "16132",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Hillsville, PA 16132, USA",
+          "addressComponents": [
+            {
+              "longName": "16132",
+              "shortName": "16132",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Hillsville",
+              "shortName": "Hillsville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mahoning Township",
+              "shortName": "Mahoning Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Mahoning Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Mahoning Township",
+              "shortName": "Mahoning Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "A \u0026 L Diesel Electric",
+        "Alternator Starter Specialists",
+        "Biotec",
+        "C \u0026 B Beer Distributing Co",
+        "Cedar Manor Quality Caring",
+        "Johnson Club",
+        "Mahoning Sportsmans Association",
+        "Pete\u0027s Party Center",
+        "Romano Firearms",
+        "Simari Beth A",
+        "United States Postal Service"
       ]
     }
   },
