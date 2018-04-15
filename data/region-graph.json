@@ -1,9 +1,10 @@
 {
-  "new-castle": [
-    "neshannock"
-  ],
-  "neshannock": [
-    "new-castle"
-  ],
-  "hillsville": []
+    "new-castle": [
+        "neshannock"
+    ],
+    "neshannock": [
+        "new-castle"
+    ],
+    "hillsville": [],
+    "ellwood": []
 }
