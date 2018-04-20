@@ -1927,6 +1927,24 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Chamber of Commerce</name>
+        <description><![CDATA[Latitude: 40.857898<br>Longitude: 80.287339]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.857898</value>
+          </Data>
+          <Data name="Longitude">
+            <value>80.287339</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            80.287339,40.857898,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Park Gyms (EX Potential)</name>
