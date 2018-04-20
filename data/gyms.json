@@ -246,24 +246,7 @@
         }
       ],
       "places": [
-        "Cole-Dubell Gallery \u0026 Custom",
-        "Country Club Dry Cleaners",
-        "ECR",
-        "Ellwood City Area Historical",
-        "Ellwood City Ledger",
-        "First United Methodist Church",
-        "Franus Architectural Associates",
-        "H \u0026 H TIRE",
-        "H \u0026 H TIRE HERKS AUTO SERVICE",
-        "H\u0026R Block",
-        "Law Office Of Nicholas A. Frisk III",
-        "MetroPCS Authorized Dealer",
-        "Nick A Frisk Jr Law Office",
-        "R W Powell Inc Real Estate",
-        "Rebecca\u0027s Hidden Gem Photography",
-        "Revive",
-        "Samuel S. Floro, Law Offices",
-        "Systems 2001 NET"
+        "First United Methodist Church"
       ]
     }
   },
@@ -838,12 +821,12 @@
       "places": [
         "Borough of Ellwood City",
         "Breaking Bread Co.",
-        "CPG WINDOWS PLUS",
         "District Court",
         "Dot \u0026 Bow Paperie",
         "Ellwood City Manager",
         "Ellwood City Police Department",
         "Ellwood City Tax Collector",
+        "Ellwood City Wastewater Treatment",
         "Elwoodcity.Org",
         "Glamorous Tanning And Specialty Boutique",
         "Grand Paws Pet Salon",
@@ -853,8 +836,7 @@
         "Sportswear Graphics",
         "The Color Center",
         "Thought Process Enterprises",
-        "Veterans Memorial Poola",
-        "Wilson Insurance Group, Inc."
+        "Veterans Memorial Poola"
       ]
     }
   },
@@ -1361,6 +1343,7 @@
         }
       ],
       "places": [
+        "Bell Froman \u0026 Orsini",
         "Bellissimo \u0026 Peirce",
         "Bradley G. Olson, Jr.",
         "Christ Presbyterian Church",
@@ -1376,7 +1359,6 @@
         "Rite Aid",
         "Rite Aid Pharmacy",
         "Rite Aid Photo",
-        "Robert A Powell - Ameriprise Financial Services, Inc.",
         "Samuel Teolis Funeral Home Inc. and Cremation Services",
         "Unifilt Corporation",
         "Western Union"
@@ -1925,6 +1907,331 @@
         "Tony\u0027s Beer distributers",
         "Tony\u0027s Distributing Co",
         "Weisz Hazel Manor"
+      ]
+    }
+  },
+  {
+    "gymId": "4029244",
+    "gymName": "Chamber of Commerce",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.857898,
+      "longitude": -80.287339,
+      "addressComponents": [
+        {
+          "formattedAddress": "314 5th St, Ellwood City, PA 16117, USA",
+          "addressComponents": [
+            {
+              "longName": "314",
+              "shortName": "314",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "5th Street",
+              "shortName": "5th St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Ellwood City",
+              "shortName": "Ellwood City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16117",
+              "shortName": "16117",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1966",
+              "shortName": "1966",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "501-509 Bell Ave, Ellwood City, PA 16117, USA",
+          "addressComponents": [
+            {
+              "longName": "501-509",
+              "shortName": "501-509",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Bell Avenue",
+              "shortName": "Bell Ave",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Ellwood City",
+              "shortName": "Ellwood City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16117",
+              "shortName": "16117",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1911",
+              "shortName": "1911",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Ellwood City, PA 16117, USA",
+          "addressComponents": [
+            {
+              "longName": "Ellwood City",
+              "shortName": "Ellwood City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16117",
+              "shortName": "16117",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Ellwood City, PA 16117, USA",
+          "addressComponents": [
+            {
+              "longName": "16117",
+              "shortName": "16117",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Ellwood City",
+              "shortName": "Ellwood City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Country Club Dry Cleaners",
+        "ECR",
+        "Rebecca\u0027s Hidden Gem Photography"
       ]
     }
   },
@@ -2703,6 +3010,7 @@
         "Advanced Foot \u0026 Ankle Associates",
         "Advanced Kidney Care Med Associates",
         "Advanced Kidney Care Med Associates: Lupariello A D MD",
+        "Center For Wound Care at UPMC Jameson",
         "Cialella \u0026 Carney Florists",
         "Ed \u0026 Don DeCarbo Funeral Home \u0026 Crematory, Inc.",
         "Faraone Brothers",
@@ -2716,7 +3024,6 @@
         "Occupational Medicine: Liedke Richd D MD",
         "PHN Wellness-Primary Health",
         "Pennsylvania Medical Transport",
-        "St. Vitus Catholic Church",
         "St. Vitus School",
         "Vucinich Dana MD"
       ]
@@ -3528,7 +3835,6 @@
         }
       ],
       "places": [
-        "Big Pauly\u0027s Sports Bar",
         "D J Hannon \u0026 Sons Inc",
         "Dicarlo Electric",
         "Dr. Richard D. Liedke, MD",
@@ -3546,6 +3852,7 @@
         "Properties Jr",
         "Shoe Stuff and Shoes",
         "St John-Baptist Maronite Church",
+        "Theresa J. Hilton-Berger, CRNP",
         "Vista South Apartments"
       ]
     }
